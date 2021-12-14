@@ -1,8 +1,8 @@
 ##           Olá eu sou o Guilherme Mendes, estagiário de tecnologia!
 <div align="center">
   <a href="https://github.com/Mendeszx">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mendeszx&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeszx&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mendeszx&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeszx&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mendes-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
