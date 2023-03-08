@@ -1,4 +1,4 @@
-##           Olá eu sou o Guilherme Mendes, estagiário de tecnologia!
+##           Olá eu sou o Guilherme Mendes, Desenvolvedor Backend!
 <div align="center">
   <a href="https://github.com/Mendeszx">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mendeszx&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
